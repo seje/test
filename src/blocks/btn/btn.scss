@@ -1,0 +1,11 @@
+.btn {
+	width: 191px;
+	height: 50px;
+	border-radius: 3px;
+	background-color: #e73741;
+	color: #fff;
+	font: 18px "Fira Sans";
+	&:hover {
+    	background: #ea555d;
+    }
+}

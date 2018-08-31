@@ -1,0 +1,21 @@
+.footer {
+	border-top: 1px solid #e0e0e0;
+	&__top {
+		margin-top: 34px;
+	}
+	&__sitemap {
+		
+	}
+	&__link {
+		color: #1a1a1a;
+		font: 300 18px "Fira Sans Light";
+		margin-right: 26px;
+	}
+	&__copyright {
+		display: inline-block;
+		margin-top: 85px;
+		margin-bottom: 24px;
+		color: #828282;
+		font: 300 18px "Fira Sans Light";
+	}
+}

@@ -1,0 +1,108 @@
+@media screen and (max-width: 1200px) {
+    .front h1.text-center {
+    	margin-top: 250px;
+    }
+    .front p.front__comment {
+    	width: 90%;
+    }
+}
+@media screen and (max-width: 1100px) {
+	div.front {
+		height: 650px;
+	}
+    .front h1.text-center {
+    	margin-top: 180px;
+    }
+}
+@media screen and (max-width: 1000px) {
+	div.front {
+		height: 600px;
+	}
+}
+@media screen and (max-width: 870px) {
+	div.front {
+		height: 500px;
+	}
+    .front h1.text-center {
+    	margin-top: 150px;
+    }
+    .front p.front__comment {
+    	width: 80%;
+    }
+}
+@media screen and (max-width: 750px) {
+	div.front {
+		height: 450px;
+	}
+    .front h1.text-center {
+    	margin-top: 120px;
+    	font: 50px Fira Sans Medium, sans-serif;
+    }
+    .front p.front__comment {
+    	font: 16px/24px Fira Sans, sans-serif;
+    	width: 75%;
+    }
+}
+@media screen and (max-width: 630px) {
+	div.front {
+		height: 400px;
+	}
+    .front h1.text-center {
+    	margin-top: 80px;
+    }
+}
+@media screen and (max-width: 535px) {
+	.front h1.text-center {
+    	margin-top: 65px;
+    }
+    .front p.front__comment {
+    	width: 90%;
+    	font: 18px/24px Fira Sans, sans-serif;
+    	margin-top: 200px;
+    }
+}
+@media screen and (max-width: 500px) {
+	a.socials__item {
+		top: 15px;
+		&--fb {
+			left: 0;
+		}
+		&--tw {
+			left: 60px;
+		}
+	}
+}
+@media screen and (max-width: 480px) {
+	.front p.front__comment {
+    	margin-top: 180px;
+    }
+}
+@media screen and (max-width: 447px) {
+	.front h1.text-center {
+    	margin-top: 50px;
+    }
+    .front p.front__comment {
+    	width: 90%;
+    	font: 18px/24px Fira Sans, sans-serif;
+    	margin-top: 110px;
+    }
+}
+@media screen and (max-width: 400px) {
+	.front h1.text-center {
+    	font: 40px Fira Sans Medium, sans-serif;
+    }
+    .front p.front__comment {
+    	margin-top: 150px;
+    }
+    .footer__sitemap .footer__link:last-child {
+    	margin-right: 0;
+    }
+    .footer__sitemap .footer__link {
+    	margin-right: 15px;
+    }
+}
+@media screen and (max-width: 361px) {
+    .front p.front__comment {
+    	margin-top: 90px;
+    }
+}
